@@ -25,17 +25,19 @@
     "email": "talentestors@outlook.com",
     "url": "https://github.com/talentestors"
   },
-  "license": "ISC",
+  "license": "UNLICENSE",
   "dependencies": {
     "@koa/cors": "github:koajs/cors",
     "@koa/router": "^15.0.0",
     "axios": "^1.0.0",
     "koa": "^3.0.0",
     "koa-bodyparser": "^4.4.1",
-    "koa-proxies": "^0.12.4"
+    "koa-proxies": "^0.12.4",
+    "qs": "^6.14.1"
   },
   "devDependencies": {
     "@types/koa": "^3.0.0",
     "@types/koa__router": "^12.0.0"
-  }
+  },
+  "packageManager": "pnpm@10.28.1+sha512.7d7dbbca9e99447b7c3bf7a73286afaaf6be99251eb9498baefa7d406892f67b879adb3a1d7e687fc4ccc1a388c7175fbaae567a26ab44d1067b54fcb0d6a316"
 }
