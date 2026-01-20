@@ -10,6 +10,7 @@ This project is for interface proxy forwarding.
 The project is modified based on <https://github.com/Dedicatus546/cors-server.git>.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dd25daa3-d576-4164-9bb3-f3748a91df81/deploy-status)](https://app.netlify.com/sites/gitalk-stazxr/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftalentestors%2Fproxy-interface.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftalentestors%2Fproxy-interface?ref=badge_shield)
 
 ## Implemented Features
 
@@ -102,3 +103,7 @@ rsshub documentation: [rsshub.app](https://docs.rsshub.app/) || [rsshub.app](htt
 - [x] `vercel`
 - [x] `netlify`
 - [ ] `docker`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftalentestors%2Fproxy-interface.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftalentestors%2Fproxy-interface?ref=badge_large)
